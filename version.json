@@ -1,7 +1,7 @@
 {
-    "available":  true,
-    "version":  "1.0.7",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.7/update-1.0.7.zip",
-    "sha256":  "2e731105a14a2514277b27fe6697f2c502610c845d0ef407fd4109576aef5ebe",
-    "releaseNotes":  "Tag-already-written single-step confirm; update-check now via GitHub releases"
+  "available": true,
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.7/update-1.0.7.zip",
+  "sha256": "2e731105a14a2514277b27fe6697f2c502610c845d0ef407fd4109576aef5ebe",
+  "releaseNotes": "TEMPORARY TEST BUMP - verifying available=true path, will be reverted"
 }

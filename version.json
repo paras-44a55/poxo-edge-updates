@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.13",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.13/update-1.0.13.zip",
-    "sha256":  "4e8d3ce2e7ccd741f90e9b6ccae0c7ca231395a225fc55b512446b07a5f23d15",
-    "releaseNotes":  "Web-app update settings (System Status \u003e Software Updates) + responsiveness fix for the toggle"
+    "version":  "1.0.14",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.14/update-1.0.14.zip",
+    "sha256":  "8765eec0b1bf5e51ce50d04d911304353be6173f494f41117f134c0fe161c90b",
+    "releaseNotes":  "Test release to verify the Apply Update button appears in the console"
 }

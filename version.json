@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.11",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.11/update-1.0.11.zip",
-    "sha256":  "6cdd67cc0757963ab6193d0eb347131e36248ba95a018ba6353efcf823c38b7e",
-    "releaseNotes":  "Auto-apply feature: verifying full end-to-end auto-restart with no manual click"
+    "version":  "1.0.13",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.13/update-1.0.13.zip",
+    "sha256":  "4e8d3ce2e7ccd741f90e9b6ccae0c7ca231395a225fc55b512446b07a5f23d15",
+    "releaseNotes":  "Web-app update settings (System Status \u003e Software Updates) + responsiveness fix for the toggle"
 }

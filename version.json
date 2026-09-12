@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.14",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.14/update-1.0.14.zip",
-    "sha256":  "8765eec0b1bf5e51ce50d04d911304353be6173f494f41117f134c0fe161c90b",
-    "releaseNotes":  "Test release to verify the Apply Update button appears in the console"
+    "version":  "1.0.15",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.15/update-1.0.15.zip",
+    "sha256":  "26ebfd01489d27354cc959288c7943ccf7140852bdd1def747588f5974f3e6c4",
+    "releaseNotes":  "Fix: Module Lookup no longer inflates production counts"
 }

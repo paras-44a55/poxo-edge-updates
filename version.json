@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.22",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.22/update-1.0.22.zip",
-    "sha256":  "ba096b2a0f7481a7b7be0d230e7b27c3a77a7ddd49143a65e91558b419a9e33d",
-    "releaseNotes":  "Fixed a crash: the PV Module section on Scan Station threw Package is not defined due to a missing icon import, breaking the page whenever it rendered."
+    "version":  "1.0.23",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.23/update-1.0.23.zip",
+    "sha256":  "a3723e31dd7953a36a62d3bd505817dda8cf6b53cadb2246acead37c36cabde7",
+    "releaseNotes":  "Re-applied fixes that a separate editing process had reverted: the chart Power-axis bug fix and Scan Station showing all 9 spec cards. Verified both the API and UI build clean before publishing."
 }

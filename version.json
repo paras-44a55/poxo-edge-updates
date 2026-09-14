@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.20",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.20/update-1.0.20.zip",
-    "sha256":  "551f5f46bb4edd9b08f2b02f0fc086a2f35e4fb6e9d2b63f413d63761f33bc65",
-    "releaseNotes":  "Fixed: web Scan Station I-V chart Power axis was mis-scaled (string-typed power value broke Recharts auto-domain), causing the curve to shoot off the top of the chart instead of curving back down - now matches the PDF export correctly. Fixed: PDF chart axis limits could go NaN and silently break a curve when a module was missing Voc/Isc/Pmax (e.g. an errored flash test). Added: Hide Status row toggle for the PDF (Configuration - PDF and Reports). Still includes in-progress ZKTeco C3-200 Plus Push/ADMS buzzer integration - NOT YET FUNCTIONAL."
+    "version":  "1.0.21",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.21/update-1.0.21.zip",
+    "sha256":  "7aac2315474631ae2a11afca1f58174116f3426b40a3f383e066672e581a46c4",
+    "releaseNotes":  "Check Now now scrolls to the result automatically - no page refresh needed. Release notes shown are shorter."
 }

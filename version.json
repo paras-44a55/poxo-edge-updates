@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.17",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.17/update-1.0.17.zip",
-    "sha256":  "6572cfce9eeaf33ce4ed28aa3c7a22e06fa48eec0c0d3d4a5b3d9f67311e5d59",
-    "releaseNotes":  "Scan Station I-V spec tiles redesigned: unified 9-card grid (fixes row-width mismatch between the 5-card and 4-card rows) and neutral tile coloring, reserving red for out-of-threshold values only. Still includes in-progress ZKTeco C3-200 Plus Push/ADMS buzzer integration - NOT YET FUNCTIONAL."
+    "version":  "1.0.18",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.18/update-1.0.18.zip",
+    "sha256":  "76359d86bc58d9bf1973616f188b95f831cd8075d897518b96df898320f91ea2",
+    "releaseNotes":  "Added a Check Now button on System Status - Software Updates, so a newly published release shows up immediately instead of waiting for the 6-hour background check or a service restart. Still includes in-progress ZKTeco C3-200 Plus Push/ADMS buzzer integration - NOT YET FUNCTIONAL."
 }

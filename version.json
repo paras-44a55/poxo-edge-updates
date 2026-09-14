@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.18",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.18/update-1.0.18.zip",
-    "sha256":  "76359d86bc58d9bf1973616f188b95f831cd8075d897518b96df898320f91ea2",
-    "releaseNotes":  "Added a Check Now button on System Status - Software Updates, so a newly published release shows up immediately instead of waiting for the 6-hour background check or a service restart. Still includes in-progress ZKTeco C3-200 Plus Push/ADMS buzzer integration - NOT YET FUNCTIONAL."
+    "version":  "1.0.19",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.19/update-1.0.19.zip",
+    "sha256":  "2ca3fb45d2068c6bfa668a74218acfb48dc6c9ec9d7c786deec5b4384839d7a0",
+    "releaseNotes":  "No functional changes since v1.0.18 - republished to verify the release/update-check pipeline end-to-end (including the new Check Now button)."
 }

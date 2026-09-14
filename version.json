@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.16",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.16/update-1.0.16.zip",
-    "sha256":  "e202c32c4f9fe4edbd4c6fa282f6c121b8c01ca20390502c3cb6ca99c0930802",
-    "releaseNotes":  "Scan Station now shows all 9 spec cards (Rs/Rsh/Eff no longer hidden); PDF export defaults to all 9 electrical fields. Includes in-progress ZKTeco C3-200 Plus Push/ADMS buzzer integration - NOT YET FUNCTIONAL (panel does not complete registration handshake yet)."
+    "version":  "1.0.17",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.17/update-1.0.17.zip",
+    "sha256":  "6572cfce9eeaf33ce4ed28aa3c7a22e06fa48eec0c0d3d4a5b3d9f67311e5d59",
+    "releaseNotes":  "Scan Station I-V spec tiles redesigned: unified 9-card grid (fixes row-width mismatch between the 5-card and 4-card rows) and neutral tile coloring, reserving red for out-of-threshold values only. Still includes in-progress ZKTeco C3-200 Plus Push/ADMS buzzer integration - NOT YET FUNCTIONAL."
 }

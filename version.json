@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.21",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.21/update-1.0.21.zip",
-    "sha256":  "7aac2315474631ae2a11afca1f58174116f3426b40a3f383e066672e581a46c4",
-    "releaseNotes":  "Check Now now scrolls to the result automatically - no page refresh needed. Release notes shown are shorter."
+    "version":  "1.0.22",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.22/update-1.0.22.zip",
+    "sha256":  "ba096b2a0f7481a7b7be0d230e7b27c3a77a7ddd49143a65e91558b419a9e33d",
+    "releaseNotes":  "Fixed a crash: the PV Module section on Scan Station threw Package is not defined due to a missing icon import, breaking the page whenever it rendered."
 }

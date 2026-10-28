@@ -1,0 +1,7 @@
+{
+    "available":  true,
+    "version":  "1.0.40",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.40-test/update-1.0.40.zip",
+    "sha256":  "2d537e0cd15cfdbc270d0a49ca9f6a662f8019cebb1eea2f5e9bd6a29210c22c",
+    "releaseNotes":  "TEST: auto-update check on one PC"
+}

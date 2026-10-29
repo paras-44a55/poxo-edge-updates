@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.42",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.42/update-1.0.42.zip",
-    "sha256":  "c58edb3c14c18456e9bebf4c41e0bdc7589f51a010b7757d15b8c90218054766",
-    "releaseNotes":  "ZK buzzer works with http-only CVSecurity servers; auto-write, Eff, profile selection, PDF and reader-power fixes"
+    "version":  "1.0.43",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.43/update-1.0.43.zip",
+    "sha256":  "4cfbf23544d8ea82442ed009280dfe79233b9fc039dc91216ea69fc7dc471aaf",
+    "releaseNotes":  "Buzzer controller status on the Scan Station; flash test PDF redesigned to fit one page, with chart, legend, axis, status and missing-value fixes"
 }

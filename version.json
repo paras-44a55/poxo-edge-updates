@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.44",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.44/update-1.0.44.zip",
-    "sha256":  "6736f2232d66b87fda16330706c85c3635483da8ac20624264628abb8fe24d45",
-    "releaseNotes":  "Buzzer (ZK CVSecurity) now always calls the server over plain http; https is used only when the server says it requires TLS"
+    "version":  "1.0.45",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.45/update-1.0.45.zip",
+    "sha256":  "a5f9670fc490060f299be23943b1f11717818cbfb9100f3ff88e6167642b549d",
+    "releaseNotes":  "The line buzzer now also sounds when a module that was already written is written again - on every repeat scan, not just the first."
 }

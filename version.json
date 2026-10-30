@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.45",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.45/update-1.0.45.zip",
-    "sha256":  "a5f9670fc490060f299be23943b1f11717818cbfb9100f3ff88e6167642b549d",
-    "releaseNotes":  "The line buzzer now also sounds when a module that was already written is written again - on every repeat scan, not just the first."
+    "version":  "1.0.46",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.46/update-1.0.46.zip",
+    "sha256":  "41c9b81177e29c2d797cec4d3b9f4044191711828be1c188238f403048bbd7c9",
+    "releaseNotes":  "Apply Update no longer reports Failed while the service is still restarting, and the console reloads itself into the new version once the update succeeds."
 }

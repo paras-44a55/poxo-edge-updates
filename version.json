@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.46",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.46/update-1.0.46.zip",
-    "sha256":  "41c9b81177e29c2d797cec4d3b9f4044191711828be1c188238f403048bbd7c9",
-    "releaseNotes":  "Apply Update no longer reports Failed while the service is still restarting, and the console reloads itself into the new version once the update succeeds."
+    "version":  "1.0.47",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.47/update-1.0.47.zip",
+    "sha256":  "8b86ccb668d9cb8fa09babeac29fc43928bd5d8bf498a6ce4ed10a7478f84b99",
+    "releaseNotes":  "Production Records PDF now follows Configuration \u003e PDF \u0026 Reports: company header with logo, chosen electrical fields, Status column, and one I-V chart per module (single or dual as configured) with the optional data points table. Data sheets and the record popup now show the I-V curve for records with no stored curve (built from Voc/Isc/Vmp/Imp, as the Scan Station does). Re-writing a tag no longer erases a stored I-V curve."
 }

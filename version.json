@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.47",
-    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.47/update-1.0.47.zip",
-    "sha256":  "8b86ccb668d9cb8fa09babeac29fc43928bd5d8bf498a6ce4ed10a7478f84b99",
-    "releaseNotes":  "Production Records PDF now follows Configuration \u003e PDF \u0026 Reports: company header with logo, chosen electrical fields, Status column, and one I-V chart per module (single or dual as configured) with the optional data points table. Data sheets and the record popup now show the I-V curve for records with no stored curve (built from Voc/Isc/Vmp/Imp, as the Scan Station does). Re-writing a tag no longer erases a stored I-V curve."
+    "version":  "1.0.48",
+    "downloadUrl":  "https://github.com/paras-44a55/poxo-edge-updates/releases/download/v1.0.48/update-1.0.48.zip",
+    "sha256":  "41807b8579b01626c0bd7b003e8036d08e5903063186a08aa505c03bb2b29cf0",
+    "releaseNotes":  "Writes now go to the tag on the antenna, never a tag written earlier (fixes most \u0027No tag answered\u0027 errors). A failed write says which tag is actually on the antenna. Weak-signal writes (0xFA) retry automatically. \u0027Unknown Format\u0027 reads say why (blank tag, foreign data, damaged write) and log the raw tag data."
 }
